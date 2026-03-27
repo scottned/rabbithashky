@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" width="400" height="420">
+  <!-- Background card -->
+  <rect width="400" height="420" fill="#fdf5f0" rx="20"/>
+  <rect x="2" y="2" width="396" height="416" fill="none" stroke="#2e6e2e" stroke-width="3" rx="19"/>
+
+  <!-- Header -->
+  <text x="200" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2e6e2e" font-weight="bold" letter-spacing="2">RABBIT HASH, KY</text>
+  <line x1="40" y1="46" x2="360" y2="46" stroke="#2e6e2e" stroke-width="1" opacity="0.4"/>
+
+  <!-- Body - pit bull, brindle -->
+  <ellipse cx="200" cy="310" rx="92" ry="65" fill="#8a6a50"/>
+  <!-- Brindle stripes on body -->
+  <path d="M 145 295 Q 155 280 165 295" stroke="#6a4a35" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M 165 308 Q 175 290 185 308" stroke="#6a4a35" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M 215 308 Q 225 290 235 308" stroke="#6a4a35" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M 235 295 Q 245 280 255 295" stroke="#6a4a35" stroke-width="3" fill="none" opacity="0.5"/>
+  <!-- Jacket -->
+  <path d="M 150 280 L 182 306 L 200 295 L 218 306 L 250 280 Z" fill="#2e6e2e"/>
+  <path d="M 182 306 L 200 330 L 218 306 L 200 295 Z" fill="white"/>
+  <!-- Bow tie -->
+  <polygon points="182,288 196,296 182,305" fill="#a84e28"/>
+  <polygon points="218,288 204,296 218,305" fill="#a84e28"/>
+  <circle cx="200" cy="296" r="6" fill="#a84e28"/>
+
+  <!-- Mayor medal -->
+  <circle cx="200" cy="335" r="14" fill="#d4a12a" stroke="#b8871a" stroke-width="2"/>
+  <text x="200" y="340" text-anchor="middle" font-size="13">🐾</text>
+
+  <!-- Head - pit bull, wide block head -->
+  <ellipse cx="200" cy="182" rx="85" ry="75" fill="#8a6a50"/>
+  <!-- Brindle marks on face -->
+  <path d="M 160 165 Q 168 155 175 165" stroke="#6a4a35" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <path d="M 225 165 Q 232 155 240 165" stroke="#6a4a35" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <path d="M 155 185 Q 160 175 168 185" stroke="#6a4a35" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M 232 185 Q 240 175 245 185" stroke="#6a4a35" stroke-width="2" fill="none" opacity="0.4"/>
+
+  <!-- Ears - pit bull, small rose ears -->
+  <path d="M 125 150 Q 118 138 128 145 Q 138 148 142 160 Q 145 172 138 175 Q 128 175 124 162 Z" fill="#7a5a42"/>
+  <path d="M 275 150 Q 282 138 272 145 Q 262 148 258 160 Q 255 172 262 175 Q 272 175 276 162 Z" fill="#7a5a42"/>
+
+  <!-- Eyes - pit bull round expressive -->
+  <circle cx="172" cy="175" r="17" fill="white"/>
+  <circle cx="228" cy="175" r="17" fill="white"/>
+  <circle cx="175" cy="177" r="12" fill="#6b3a00"/>
+  <circle cx="231" cy="177" r="12" fill="#6b3a00"/>
+  <circle cx="172" cy="174" r="17" fill="none" stroke="#2a1800" stroke-width="1.5"/>
+  <circle cx="228" cy="174" r="17" fill="none" stroke="#2a1800" stroke-width="1.5"/>
+  <circle cx="179" cy="173" r="5" fill="white"/>
+  <circle cx="235" cy="173" r="5" fill="white"/>
+
+  <!-- Wide pit bull snout -->
+  <ellipse cx="200" cy="213" rx="42" ry="28" fill="#a07858"/>
+  <!-- Nose - wide -->
+  <ellipse cx="200" cy="202" rx="18" ry="12" fill="#1a1008"/>
+  <ellipse cx="194" cy="199" rx="6" ry="3.5" fill="#3a2818" opacity="0.6"/>
+  <!-- Wide smiling mouth - pit bulls are known for their smile -->
+  <path d="M 178 224 Q 200 240 222 224" stroke="#1a1008" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <ellipse cx="200" cy="231" rx="14" ry="10" fill="#cc4444"/>
+
+  <!-- Eyebrows - expressive pit bull -->
+  <path d="M 156 160 Q 172 151 188 158" stroke="#5a3a22" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M 212 158 Q 228 151 244 160" stroke="#5a3a22" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Footer -->
+  <path d="M 0 368 L 400 368 L 400 420 Q 200 420 200 420 Q 0 420 0 420 Z" fill="#2e6e2e"/>
+  <text x="200" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="white">MAYOR 2016–2020</text>
+  <text x="200" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#b8d8b8">Brynneth "Brynn" Pawltro · Pit Bull</text>
+</svg>

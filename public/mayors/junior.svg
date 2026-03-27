@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" width="400" height="420">
+  <!-- Background card -->
+  <rect width="400" height="420" fill="#f8f4f0" rx="20"/>
+  <rect x="2" y="2" width="396" height="416" fill="none" stroke="#2e6e2e" stroke-width="3" rx="19"/>
+
+  <!-- Header -->
+  <text x="200" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2e6e2e" font-weight="bold" letter-spacing="2">RABBIT HASH, KY</text>
+  <line x1="40" y1="46" x2="360" y2="46" stroke="#2e6e2e" stroke-width="1" opacity="0.4"/>
+
+  <!-- Body - black lab, sturdy -->
+  <ellipse cx="200" cy="312" rx="88" ry="65" fill="#1a1a1a"/>
+  <!-- Jacket lapels -->
+  <path d="M 152 282 L 183 308 L 200 297 L 217 308 L 248 282 Z" fill="#2e6e2e"/>
+  <path d="M 183 308 L 200 333 L 217 308 L 200 297 Z" fill="white"/>
+  <!-- Bow tie -->
+  <polygon points="182,288 196,296 182,305" fill="#c0633a"/>
+  <polygon points="218,288 204,296 218,305" fill="#c0633a"/>
+  <circle cx="200" cy="296" r="6" fill="#c0633a"/>
+
+  <!-- Mayor medal -->
+  <circle cx="200" cy="338" r="13" fill="#d4a12a" stroke="#b8871a" stroke-width="2"/>
+  <text x="200" y="343" text-anchor="middle" font-size="13">🐾</text>
+
+  <!-- Head - black lab, broad and noble -->
+  <ellipse cx="200" cy="183" rx="80" ry="74" fill="#1a1a1a"/>
+
+  <!-- Ears - lab floppy, close to head -->
+  <path d="M 126 158 Q 108 168 112 210 Q 115 230 130 234 Q 148 236 152 212 Q 156 188 145 162 Z" fill="#111111"/>
+  <path d="M 274 158 Q 292 168 288 210 Q 285 230 270 234 Q 252 236 248 212 Q 244 188 255 162 Z" fill="#111111"/>
+
+  <!-- Eyes - warm amber/brown (lab eyes) -->
+  <circle cx="173" cy="175" r="16" fill="#fff8e7"/>
+  <circle cx="227" cy="175" r="16" fill="#fff8e7"/>
+  <circle cx="176" cy="177" r="11" fill="#8b5a00"/>
+  <circle cx="230" cy="177" r="11" fill="#8b5a00"/>
+  <circle cx="174" cy="174" r="16" fill="none" stroke="#2a1a00" stroke-width="1.5"/>
+  <circle cx="228" cy="174" r="16" fill="none" stroke="#2a1a00" stroke-width="1.5"/>
+  <circle cx="179" cy="174" r="4.5" fill="white"/>
+  <circle cx="233" cy="174" r="4.5" fill="white"/>
+
+  <!-- Snout - broader lab muzzle -->
+  <ellipse cx="200" cy="210" rx="35" ry="26" fill="#2a2a2a"/>
+  <!-- Nose - large lab nose -->
+  <ellipse cx="200" cy="200" rx="16" ry="11" fill="#0a0a0a"/>
+  <ellipse cx="195" cy="197" rx="5" ry="3" fill="#3a3a3a" opacity="0.7"/>
+  <!-- Mouth -->
+  <path d="M 184 220 Q 200 232 216 220" stroke="#0a0a0a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="200" cy="228" rx="10" ry="8" fill="#cc4444"/>
+
+  <!-- Eyebrows - lighter, expressive -->
+  <path d="M 158 160 Q 173 152 188 158" stroke="#444444" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 212 158 Q 227 152 242 160" stroke="#444444" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Footer -->
+  <path d="M 0 368 L 400 368 L 400 420 Q 400 420 200 420 Q 0 420 0 420 Z" fill="#2e6e2e"/>
+  <text x="200" y="392" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="white">MAYOR 2004–2008</text>
+  <text x="200" y="412" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#b8d8b8">Junior Cochran · Black Labrador</text>
+</svg>

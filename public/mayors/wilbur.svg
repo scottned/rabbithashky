@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" width="400" height="420">
+  <!-- Background card - current mayor, slightly golden -->
+  <rect width="400" height="420" fill="#fffbf0" rx="20"/>
+  <rect x="2" y="2" width="396" height="416" fill="none" stroke="#d4a12a" stroke-width="3" rx="19"/>
+
+  <!-- Header with gold accent for current mayor -->
+  <text x="200" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2e6e2e" font-weight="bold" letter-spacing="2">RABBIT HASH, KY</text>
+  <text x="200" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#d4a12a" font-weight="bold" letter-spacing="1">★ CURRENT MAYOR ★</text>
+  <line x1="40" y1="58" x2="360" y2="58" stroke="#d4a12a" stroke-width="1" opacity="0.6"/>
+
+  <!-- Body - French Bulldog, fawn/cream -->
+  <ellipse cx="200" cy="314" rx="88" ry="62" fill="#e8c898"/>
+  <!-- Jacket - fancier for current mayor -->
+  <path d="M 152 282 L 182 308 L 200 296 L 218 308 L 248 282 Z" fill="#2e6e2e"/>
+  <path d="M 182 308 L 200 332 L 218 308 L 200 296 Z" fill="#f0f0f0"/>
+  <!-- Bow tie - gold for current mayor -->
+  <polygon points="182,288 196,296 182,306" fill="#d4a12a"/>
+  <polygon points="218,288 204,296 218,306" fill="#d4a12a"/>
+  <circle cx="200" cy="296" r="7" fill="#d4a12a"/>
+
+  <!-- Mayor chain/medal - bigger for current mayor -->
+  <circle cx="200" cy="337" r="15" fill="#d4a12a" stroke="#b8871a" stroke-width="2.5"/>
+  <text x="200" y="342" text-anchor="middle" font-size="14">🐾</text>
+
+  <!-- Head - French Bulldog, distinctive bat ears and flat face -->
+  <ellipse cx="200" cy="186" rx="82" ry="72" fill="#e8c898"/>
+
+  <!-- BAT EARS - French Bulldog signature feature, large upright triangular -->
+  <path d="M 138 145 Q 125 100 142 115 Q 155 125 158 150 Q 158 168 148 172 Q 138 172 133 158 Z" fill="#d4b070"/>
+  <path d="M 262 145 Q 275 100 258 115 Q 245 125 242 150 Q 242 168 252 172 Q 262 172 267 158 Z" fill="#d4b070"/>
+  <!-- Inner ear detail -->
+  <path d="M 140 148 Q 130 112 143 120 Q 152 128 155 150 Q 154 163 148 165 Q 141 164 139 155 Z" fill="#f0d8b0" opacity="0.8"/>
+  <path d="M 260 148 Q 270 112 257 120 Q 248 128 245 150 Q 246 163 252 165 Q 259 164 261 155 Z" fill="#f0d8b0" opacity="0.8"/>
+
+  <!-- Eyes - round, expressive frenchie eyes -->
+  <circle cx="172" cy="183" r="18" fill="white"/>
+  <circle cx="228" cy="183" r="18" fill="white"/>
+  <circle cx="175" cy="185" r="13" fill="#3a2800"/>
+  <circle cx="231" cy="185" r="13" fill="#3a2800"/>
+  <circle cx="172" cy="182" r="18" fill="none" stroke="#1a1000" stroke-width="2"/>
+  <circle cx="228" cy="182" r="18" fill="none" stroke="#1a1000" stroke-width="2"/>
+  <circle cx="180" cy="181" r="5.5" fill="white"/>
+  <circle cx="236" cy="181" r="5.5" fill="white"/>
+
+  <!-- Flat frenchie face / snout - very flat, wide -->
+  <ellipse cx="200" cy="213" rx="44" ry="26" fill="#d8b07a"/>
+  <!-- Wrinkle lines on flat face -->
+  <path d="M 168 205 Q 175 200 182 205" stroke="#c09060" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M 218 205 Q 225 200 232 205" stroke="#c09060" stroke-width="2" fill="none" opacity="0.7"/>
+  <!-- Flat nose - wide, pushed in -->
+  <ellipse cx="200" cy="206" rx="20" ry="11" fill="#1a1008"/>
+  <!-- Nostrils -->
+  <ellipse cx="191" cy="207" rx="6" ry="5" fill="#2a2010"/>
+  <ellipse cx="209" cy="207" rx="6" ry="5" fill="#2a2010"/>
+  <ellipse cx="191" cy="206" rx="3" ry="2" fill="#3a3020" opacity="0.5"/>
+  <ellipse cx="209" cy="206" rx="3" ry="2" fill="#3a3020" opacity="0.5"/>
+  <!-- Underbite smile - frenchies have it -->
+  <path d="M 178 222 Q 200 235 222 222" stroke="#1a1008" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="200" cy="229" rx="13" ry="9" fill="#e05555"/>
+  <!-- Tiny bottom teeth showing (frenchie underbite) -->
+  <rect x="194" y="229" width="5" height="4" fill="white" rx="1"/>
+  <rect x="201" y="229" width="5" height="4" fill="white" rx="1"/>
+
+  <!-- Eyebrows - frenchie has pronounced brow ridges -->
+  <path d="M 155 167 Q 172 158 189 165" stroke="#c09060" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M 211 165 Q 228 158 245 167" stroke="#c09060" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Footer - gold border for current mayor -->
+  <path d="M 0 368 L 400 368 L 400 420 Q 200 420 200 420 Q 0 420 0 420 Z" fill="#2e6e2e"/>
+  <text x="200" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#ffd700">MAYOR 2020–PRESENT</text>
+  <text x="200" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#b8d8b8">Wilbur Beast · French Bulldog</text>
+</svg>
