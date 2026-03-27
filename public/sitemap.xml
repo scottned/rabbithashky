@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://rabbithashky.org/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://rabbithashky.org/things-to-do.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://rabbithashky.org/dog-mayors.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://rabbithashky.org/restaurants.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rabbithashky.org/where-to-stay.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rabbithashky.org/getting-here.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rabbithashky.org/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://rabbithashky.org/things-to-do</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rabbithashky.org/dog-mayors</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rabbithashky.org/restaurants</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rabbithashky.org/where-to-stay</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rabbithashky.org/getting-here</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rabbithashky.org/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
